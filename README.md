@@ -31,7 +31,7 @@
 1. Google Maps
 2. Spotify
 3. Netflix
-4. Трейдингова система
+4. **[Трейдингова система](./04_Trading_System.md)**
 5. OLX
 6. Booking
 7. Washington Post
